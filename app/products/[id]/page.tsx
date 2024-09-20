@@ -57,7 +57,7 @@ const ProductPage = () => {
   };
 
   return (
-    <div className="container mx-auto py-2 flex items-center justify-center min-h-screen">
+    <div className="container mx-auto py-3 flex items-center justify-center min-h-screen">
       <div className="lg:w-4/5 w-full lg:flex  flex-wrap items-center">
         {/* Image Section */}
         <div className="lg:w-1/2 w-[300px] lg:h-[400px] h-64 flex-shrink-0">
